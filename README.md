@@ -11,3 +11,8 @@ https://create-react-app.dev/docs/getting-started
 
 *** Material UI
 https://material-ui.com/
+
+
+npx create-react-app images-app
+cd images-app
+npm start
